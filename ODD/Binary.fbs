@@ -1,5 +1,0 @@
-namespace odd.Gx840;
-
-table Binary{
-	data:[byte];
-}
