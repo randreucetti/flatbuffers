@@ -1,0 +1,7 @@
+namespace odd.Gx840;
+
+table DiaAttrGx840AllocationRetentionPriority{
+	gx840PriorityLevel:int;
+	gx840PreemptionCapability:string;
+	gx840PreemptionVunerablilty:string;
+}
